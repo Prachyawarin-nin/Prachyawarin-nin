@@ -32,8 +32,14 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+ 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=thammarat-ai&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thammarat-ai&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
+ 
 </div>
 
 ---
@@ -41,4 +47,4 @@
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/share/1FZhMsa1FR/?mibextid=wwXIfr))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
